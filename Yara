@@ -1,0 +1,1 @@
+Here I completed the Yara room where I learned about the Yara language and some of how it works.
